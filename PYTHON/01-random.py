@@ -10,3 +10,4 @@ while 1 == 1:
         break
     else:
         print('Errou!')
+	pass
