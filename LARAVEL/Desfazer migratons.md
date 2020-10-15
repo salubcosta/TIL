@@ -1,9 +1,11 @@
 Para desfazer uma migrations que acabou de criar. Utilize este comando:
+
 <code>
 php artisan migrate:rollback
 </code>
 
 Também é possível escolher quantos passos você quer desfazer. Exemplo:
+
 <code>
 php artisan migrate:rollback --step=3
 </code>
