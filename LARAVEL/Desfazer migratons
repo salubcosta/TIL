@@ -1,0 +1,4 @@
+Para desfazer uma migrations que acabou de criar. Utilize este comando:
+<code>
+php artisan migrate:rollback
+</code>
